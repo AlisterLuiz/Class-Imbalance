@@ -1,1 +1,1 @@
-# Class-Imbalance
+# Class Imbalance
