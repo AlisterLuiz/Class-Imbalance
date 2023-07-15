@@ -5,7 +5,7 @@ class imbalance and discuss strategies to handle them.
 
 <br>
 <center>
-<img src="./assets/class_imbalance.png" width="750">
+<img src="./Assets/class_imbalance.png" width="750">
 </center>
 <br>
 
